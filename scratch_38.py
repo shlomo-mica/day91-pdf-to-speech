@@ -1,6 +1,6 @@
 import uuid
 
-text_to_speech_appi = "sk_c26966c3b2c99627d9e18aa41fd3a8a9a449b388b07bf246"
+text_to_speech_appi = "some_key"
 
 import os
 from elevenlabs import VoiceSettings
