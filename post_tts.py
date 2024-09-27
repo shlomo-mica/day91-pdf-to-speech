@@ -6,7 +6,7 @@ url = "https://api.elevenlabs.io/v1/text-to-speech/pMsXgVXv3BLzUgSXRplE"
 headers = {
     "Accept": "audio/mpeg",
     "Content-Type": "application/json",
-    "xi-api-key": "sk_c26966c3b2c99627d9e18aa41fd3a8a9a449b388b07bf246"
+    "xi-api-key": "some api key"
 }
 
 data = {
